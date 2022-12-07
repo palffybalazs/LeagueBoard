@@ -44,3 +44,6 @@ The server can be reached on http://localhost:8080/${desiredlocation}, which can
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50795664/206267496-4374289c-979f-4198-8361-9a46c77ac625.png" width="450" height="200">
 </p>
+
+### Postman
+For some queries, postman is inclueded.
